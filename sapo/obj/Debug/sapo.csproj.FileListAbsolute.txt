@@ -1,0 +1,10 @@
+D:\sapo\sapo\bin\Debug\sapo.exe.config
+D:\sapo\sapo\bin\Debug\sapo.exe
+D:\sapo\sapo\bin\Debug\sapo.pdb
+D:\sapo\sapo\obj\Debug\sapo.csproj.AssemblyReference.cache
+D:\sapo\sapo\obj\Debug\sapo.Properties.Resources.resources
+D:\sapo\sapo\obj\Debug\sapo.csproj.GenerateResource.cache
+D:\sapo\sapo\obj\Debug\sapo.csproj.CoreCompileInputs.cache
+D:\sapo\sapo\obj\Debug\sapo.exe
+D:\sapo\sapo\obj\Debug\sapo.pdb
+D:\sapo\sapo\obj\Debug\sapo.Sapo.resources
